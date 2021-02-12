@@ -1,2 +1,4 @@
-# fyi
-thief.fyi website
+# thief.fyi
+
+[bots](https://bots.thief.fyi)
+
